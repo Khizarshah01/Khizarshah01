@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++,Java**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact with me:</h3>
 <p align="left">khizar.shah010@gmail.com
 </p>
 
