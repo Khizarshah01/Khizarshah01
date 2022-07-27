@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Desktop assistant**
 
-- 🌱 I’m currently learning **C++,Java,DSA**
+- 🌱 I’m currently learning **Java,DSA**
 
 - 📫 How to reach me **khizar.shah010@gmail.com**
 
