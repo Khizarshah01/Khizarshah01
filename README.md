@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaimongate&label=Profile%20views&color=0e75b6&style=flat" alt="kaimongate" /> </p>
 
-- 🔭 I’m currently working on **Desktop assistant**
+- 🔭 I’m currently working on **Mobile assistant**
 
-- 🌱 I’m currently learning **Java,DSA**
+- 🌱 I’m currently learning **DP,DSA**
 
 - 📫 How to reach me **khizar.shah010@gmail.com**
 
