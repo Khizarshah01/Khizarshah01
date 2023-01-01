@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Khizar shah</h1>
 <h3 align="center">Somebody told me i'm a failure i'll prove them wrong.</h3>
 
-- 🔭 I’m currently working on **Projects**
+- 🔭 I’m currently working on **College Project**
 
-- 🌱 I’m currently learning **Backend frameworks**
+- 🌱 I’m currently learning **Frontend Frameworks**
 
 - 📫 How to reach me **khizar.shah010@gmail.com**
 
