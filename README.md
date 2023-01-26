@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Khizar shah</h1>
-<h3 align="center">Somebody told me i'm a failure i'll prove them wrong.</h3>
+<h3 align="center">Computer engineering student with a strong background in data structures and algorithms, constantly seeking to improve and expand my knowledge in the field."  </h3>
 
 - 🔭 I’m currently working on **College Project**
 
