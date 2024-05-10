@@ -1,4 +1,6 @@
-<h1>Hi, I'm khizar shah </h1>
+<h1>Hi, I'm Khizar Shah </h1>
+
+<h3>Programmer by day, crypto enthusiast by night, building the future of finance through code.</h3>
 
 - 🌱 I’m currently learning **Block Chain**
 
