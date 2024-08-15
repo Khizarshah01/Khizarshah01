@@ -6,7 +6,7 @@
 
 - ⚡ Fun fact **Sometimes I feel like a detective when I'm trying to figure out what's going wrong with my code!**
 
-- 👨‍💻 Portfolio [khizarshah.email](https://subtle-cannoli-2ad4f4.netlify.app/)
+- 👨‍💻 Portfolio khizarshah01.me
 
 
 
