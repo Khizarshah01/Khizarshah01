@@ -12,7 +12,7 @@ while not self.knowledge == "∞":
 
 ## 🚀 **About Me**  
 **Day Job:** Turning coffee into code  
-**Night Job:** Decrypting the future of finance  
+**Night Job:** Debugging and learning new stuff  
 **Superpower:** Finding that one missing semicolon at 3 AM  
 
 > "First solve the problem. Then, write the code." – *John Johnson*  
