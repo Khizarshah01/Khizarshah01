@@ -1,13 +1,11 @@
 # 💻 **KHIZAR SHAH** - The Code Alchemist  
 
 ## 🚀 **About Me**  
-**Day Job:** Turning coffee into code  
+**Day Job:** College & exploring
 **Night Job:** Debugging and learning new stuff  
 **Superpower:** Finding that one missing semicolon at 3 AM  
 
 > "First solve the problem. Then, write the code." – *John Johnson*  
-> *(Unless it's blockchain, then you solve problems while writing code)*  
-
 
 ## 🔥 **Tech Arsenal**  
 
@@ -26,17 +24,6 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
-
-
-## 📈 **GitHub War Stats**  
-
-```text
-☕ Coffee Consumed  │ ████████████████████░░░░   82%
-🐛 Bugs Squashed    │ ████████████████████████   100%
-💡 Eureka Moments   │ ██████████░░░░░░░░░░░░░   42%
-⌚ Sleep Deficit     │ ████████████████████████   100%
-```
-
 
 ## 🎯 **Currently**  
 - 🔗 Building decentralized futures (literally)  
@@ -62,7 +49,7 @@
 > *Now I create problems for computers to solve.*  
 
 ⚡ **Portfolio:** [khizarshah01.me](http://khizarshah01.me)  
-⚡ **Fun Fact:** My IDE knows me better than my therapist  
+⚡ **Fun Fact:** My IDE knows me better than my Dad.
 
 ---
 
