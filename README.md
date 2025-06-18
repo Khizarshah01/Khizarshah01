@@ -1,15 +1,5 @@
 # 💻 **KHIZAR SHAH** - The Code Alchemist  
 
-```python
-while not self.knowledge == "∞":
-    self.code()
-    self.learn("Blockchain")
-    self.fix_bugs()
-    if caffeine_level < 0.5:
-        self.drink_coffee()
-```
-      
-
 ## 🚀 **About Me**  
 **Day Job:** Turning coffee into code  
 **Night Job:** Debugging and learning new stuff  
