@@ -1,4 +1,5 @@
-I write code that (eventually) works.
+
+![filfoy](https://github.com/user-attachments/assets/803733fe-ca34-4253-8aea-5a38f0cfbb7f)
 
 ## **Let's Connect**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khizar-shah-8b0b5524b)
