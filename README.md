@@ -4,8 +4,6 @@ engineer • software dev • open source
 i like building things from scratch.
 shipping small, fast, understandable code.  
 
-*(yes, I live in the terminal more than the browser.)*
-
 ### Interests
 - Data structures, algorithms, and performance  
 - Blockchain & Web3 engineering  
