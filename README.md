@@ -1,15 +1,15 @@
-## Khizar Shah  
-engineer • software dev • open source  
+## Khizar Shah
 
-i like building things from scratch.
-shipping small, fast, understandable code.  
+engineer • full-stack dev • GSoC’26 @ Rocket.Chat
 
-### Interests
-- Learning how things actually work  
+I build clean, usable products.
+
+### Highlights
+- GSoC 2026 @ Rocket.Chat - Built Agenda Jobs Admin Page (*UI + endpoints + MongoDB models*)
+- 20+ merged open source PRs (*Rocket.Chat, Activepieces, Headlamp*)
+- Shipped DeepQuery (*AI research platform*) and WriteSimply (*desktop writing app*)
 
 ### Links
-- [Portfolio](https://khizar.tech/) 
-- [X (Twitter)](https://x.com/0xrinx) 
-- [LinkedIn](https://www.linkedin.com/in/khizarshah01/)
-
-> “It’s not magic, it’s skill and hard work”
+- [Portfolio](https://khizar.tech)
+- [X](https://x.com/0xrinx)
+- [LinkedIn](https://www.linkedin.com/in/khizarshah01)
