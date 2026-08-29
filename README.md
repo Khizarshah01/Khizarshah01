@@ -1,6 +1,6 @@
 ## Khizar Shah
 
-engineer • full-stack dev • GSoC’26 @ Rocket.Chat
+Software Engineer • GSoC’26 @ Rocket.Chat
 
 I build clean, usable products.
 
