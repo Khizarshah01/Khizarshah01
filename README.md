@@ -6,7 +6,7 @@ I build clean, usable products.
 
 ### Highlights
 - GSoC 2026 @ Rocket.Chat - Built Agenda Jobs Admin Page
-- 50+ merged open source PRs (*Rocket.Chat, Activepieces, Headlamp*)
+- 100+ merged open source PRs (*Rocket.Chat, Activepieces, Headlamp*) others..
 - Shipped DeepQuery (*AI research platform*) and WriteSimply (*desktop writing app*)
 
 ### Links
